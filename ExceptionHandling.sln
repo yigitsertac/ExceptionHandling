@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{57B46BD8-46D9-442F-A50E-DAC06D1D02E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{FF337D06-E062-4545-B3C8-F6927D2FEDBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF337D06-E062-4545-B3C8-F6927D2FEDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF337D06-E062-4545-B3C8-F6927D2FEDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF337D06-E062-4545-B3C8-F6927D2FEDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF337D06-E062-4545-B3C8-F6927D2FEDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FF337D06-E062-4545-B3C8-F6927D2FEDBF} = {57B46BD8-46D9-442F-A50E-DAC06D1D02E1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25085B0D-B319-4B3C-923D-E8F20C5CAD48}
+	EndGlobalSection
+EndGlobal
